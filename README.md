@@ -38,8 +38,8 @@ The goal of this capstone project is to build a **robust, end-to-end automated t
 -------
 
 ## 📬 Contact  
-👨‍💻 Ashutosh Soni
-📧 iamashuarya786@gmail.com  
+👨‍💻 **Ashutosh Soni**  
+📧 iamashuarya786@gmail.com 
 <p align="left">
   <a href="https://www.linkedin.com/in/beingashusoni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
