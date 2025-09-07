@@ -5,7 +5,7 @@ The goal of this capstone project is to build a **robust, end-to-end automated t
 
 - 🧩 **Automation Framework**: Designed using **Selenium WebDriver** and **TestNG** to validate critical functionalities and ensure application stability.  
 - ⚙️ **CI/CD Integration**: Seamlessly integrated with **Jenkins**, enabling **automatic test execution** on every code commit.  
-- 🌐 **Collaboration**: Managed through **Git & GitHub** for version control and team collaboration.  
+- 🌐 **Collaboration**: Managed through **Git & GitHub** for version control.  
 - 📊 **Requirement & Bug Tracking**: Leveraging **JIRA** for managing user stories, test cases, defects, and tasks throughout the SDLC.  
 
 ---
